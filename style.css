@@ -1,0 +1,58 @@
+
+.Top_Logo {
+    text-align: left; 
+    color: black;
+}
+
+.Login {
+    text-align: right
+}
+.Bottom_Logo {
+    color: black; 
+    bottom: 5px; 
+    text-align: right;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #6495ED;
+    padding: 30px;
+}
+
+.product {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px 0;
+    display: flex;
+}
+
+.product img {
+    width: 100px;
+    margin-right: 10px;
+}
+
+.product h2 {
+    font-size: 1.2em;
+}
+
+.product button {
+    font-size: 1em;
+}
+
+.contact {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-top: 50px;
+}
+button{
+    background-color: lightgreen;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 12px;
+    border-radius: 8px;
+    border: solid;
+    color: black;
+}
+.Main{
+    width: fit-content;
+}
